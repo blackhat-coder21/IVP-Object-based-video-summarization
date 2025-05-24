@@ -1,0 +1,8 @@
+Metrics Summary:
+F1 Score: 0.8808
+Accuracy: 0.8802
+Precision: 0.8854
+Recall: 0.8763
+Confusion Matrix:
+[[84 11]
+ [12 85]]
