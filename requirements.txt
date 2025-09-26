@@ -1,9 +1,9 @@
-streamlit
-pillow
-opencv-python
-numpy
-ultralytics
-torch
-torchvision
-supervision
+streamlit==1.38.0
+pillow==10.4.0
+opencv-python-headless==4.10.0.84
+numpy==1.26.4
+ultralytics==8.2.78
+torch==2.2.2
+torchvision==0.17.2
+supervision==0.20.0
 git+https://github.com/facebookresearch/sam2.git
