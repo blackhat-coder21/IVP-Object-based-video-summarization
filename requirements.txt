@@ -1,0 +1,9 @@
+streamlit
+pillow
+opencv-python
+numpy
+ultralytics
+torch
+torchvision
+supervision
+git+https://github.com/facebookresearch/sam2.git
